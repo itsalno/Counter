@@ -8,6 +8,9 @@ function App() {
   return (
     <>
       <div>
+          <h1>
+              COUNTER
+          </h1>
         <Counter/>
       </div>
     </>
